@@ -8,6 +8,15 @@
         "repo": "ontolify-test-data",
         "path": "boards/34123423.json"
       }
+    },
+    {
+      "name": "hello",
+      "id": "board-12847c85-3f17-4c39-9d10-4a6524ede742",
+      "gitConfig": {
+        "owner": "michael-collins",
+        "repo": "ontolify-test-data",
+        "path": "boards/hello.json"
+      }
     }
   ],
   "libraries": []
