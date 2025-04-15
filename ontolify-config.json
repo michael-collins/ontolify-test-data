@@ -1,9 +1,14 @@
 {
-  "boards": [],
-  "libraries": [],
-  "gitConfig": {
-    "owner": "michael-collins",
-    "repo": "ontolify-test-data",
-    "path": "ontolify-config.json"
-  }
+  "boards": [
+    {
+      "name": "34123423",
+      "id": "board-42669978-8352-4d9d-ae77-6175f75b40cf",
+      "gitConfig": {
+        "owner": "michael-collins",
+        "repo": "ontolify-test-data",
+        "path": "boards/34123423.json"
+      }
+    }
+  ],
+  "libraries": []
 }
