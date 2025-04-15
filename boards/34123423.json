@@ -19,15 +19,5 @@
       "order": 2
     }
   ],
-  "tasks": [
-    {
-      "id": "task--Infinity",
-      "status": "column-1",
-      "title": "things",
-      "description": "things",
-      "priority": "low",
-      "dueDate": "",
-      "hyperTags": []
-    }
-  ]
+  "tasks": []
 }
