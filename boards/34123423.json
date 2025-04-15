@@ -19,5 +19,15 @@
       "order": 2
     }
   ],
-  "tasks": []
+  "tasks": [
+    {
+      "id": "task--Infinity",
+      "status": "column-1",
+      "title": "wet",
+      "description": "wetwet",
+      "priority": "medium",
+      "dueDate": "",
+      "hyperTags": []
+    }
+  ]
 }
